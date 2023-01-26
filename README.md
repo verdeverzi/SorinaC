@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="325" src="./images/gitHubProfile.png" height="320px" /></a>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">, Hi , I'm Sorina (@shashank-indukuri)</h1>
 <h3 align="center">I'm a passionate Web Developer!</h3>
