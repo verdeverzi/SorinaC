@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">,  I'm Sorina</h1>
-<h3 align="center">I'm a passionate Web Developer!</h3>
+<h3 align="center">I'm a passionate Junior Web Developer!</h3>
 
 
 ___
